@@ -1,0 +1,7 @@
+aiofiles
+fastapi
+numpy
+pandas
+sentence-transformers
+streamlit
+uvicorn
