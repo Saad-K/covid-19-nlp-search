@@ -9,6 +9,8 @@ make install
 
 ### How to Run:
 
+Create a folder called `data`. Put all the `csv` and `pkl` files in there.
+
 There are two parts to this application.
 
 1. FastApi web server.
